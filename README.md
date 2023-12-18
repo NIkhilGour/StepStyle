@@ -1,6 +1,6 @@
 # step_style
 
-A new Flutter project.
+A footwear store flutter project 
 
 ## Getting Started
 
